@@ -49,4 +49,4 @@ This lab demonstrates:
 
 ---
 
-*Developed for a networking/operating systems course.*  
+*Developed for a distributed operating systems course.*  
